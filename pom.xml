@@ -14,7 +14,7 @@
 	<name>jpa-entity-relationships</name>
 	<description>Entity Relationship management in JPA </description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
